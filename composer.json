@@ -1,0 +1,16 @@
+{
+    "name": "reizinixc/blogattachment",
+    "type": "october-plugin",
+    "description": "File attachment plugin for RainLab blog module",
+    "keywords": ["october", "cms", "attachment", "plugin"],
+    "license": "MIT",
+
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Reizinixc\\BlogAttachment\\": ""
+        }
+    }
+}
